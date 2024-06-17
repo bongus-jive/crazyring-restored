@@ -1,4 +1,5 @@
 {
+  "priority": -9900,
   "scripts": {
     "postLoad": [ "/cinematics/pat_crazyring/postload.lua" ]
   }
