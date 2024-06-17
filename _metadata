@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "postLoad": [ "/cinematics/pat_crazyring/postload.lua" ]
+  }
+}
