@@ -1,6 +1,13 @@
 {
-  "priority": -9900,
-  "scripts": {
-    "postLoad": [ "/cinematics/pat_crazyring/postload.lua" ]
-  }
+  "author" : "patman",
+  "description" : "restores the 'crazyring' warp cinematic from beta",
+  "friendlyName" : "crazyring warp cinematic",
+  "name" : "pat_crazyring",
+  "priority" : -9900,
+  "scripts" : {
+    "postLoad" : ["/cinematics/pat_crazyring/postload.lua"]
+  },
+  "steamDescription" : "restores the 'crazyring' warp cinematic from beta\nwith some small adjustments because it was kindve bad\n\nsupports a bunch of modded races\nif you use [url=https://github.com/OpenStarbound/OpenStarbound][u]OpenStarbound[/u][/url] it will support all modded races by generating the required images automatically\n\ncrazyring.png <3\nborn April 2nd, 2015 - \"Spirited Giraffe (nightly)\" [spoiler]download_depot 211820 211821 69119513202873366[/spoiler]\ndied November 24th, 2015 - \"Glad Giraffe (nightly unstable)\" [spoiler]download_depot 367540 367541 5211121139625699892[/spoiler]\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/crazyring-restored\n\n\ni spent way too long making this before i realized that this kindve sucks lol",
+  "tags" : "Miscellaneous",
+  "version" : "1.0"
 }
