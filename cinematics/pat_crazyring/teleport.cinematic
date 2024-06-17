@@ -1,0 +1,340 @@
+{
+  "skippable": true,
+  "muteSfx": false,
+  "muteMusic": true,
+  "backgroundColor": [ 0, 0, 0, 255 ],
+  "backgroundFadeTime": 0.05,
+  "panels": [
+    {
+      "drawables": [
+        { "image": "/cinematics/starfield0.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 1.3,
+          "alpha": 0.0,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 0.05,
+          "zoom": 1.3,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 30,
+          "zoom": 3.5,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        }
+      ]
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/glitters.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 4.5,
+          "alpha": 0.0,
+          "position": [ 480, 20 ]
+        },
+        {
+          "timecode": 1.5,
+          "zoom": 4,
+          "alpha": 0.4,
+          "position": [ 480, 200 ]
+        },
+        {
+          "timecode": 3,
+          "zoom": 4.5,
+          "alpha": 0.0,
+          "position": [ 480, 200 ]
+        }
+      ],
+      "loopTime": 3
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/crazyring.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 5.5,
+          "zoom": 20,
+          "alpha": 0,
+          "position": [ 450, 270 ]
+        }
+      ],
+      "startTime": 0.2,
+      "loopTime": 4.2
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/crazyring.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 5.5,
+          "zoom": 20,
+          "alpha": 0,
+          "position": [ 450, 270 ]
+        }
+      ],
+      "startTime": 0.8,
+      "loopTime": 4.2
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/crazyring.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 5.5,
+          "zoom": 20,
+          "alpha": 0,
+          "position": [ 450, 270 ]
+        }
+      ],
+      "startTime": 1.4,
+      "loopTime": 4.2
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/crazyring.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 5.5,
+          "zoom": 20,
+          "alpha": 0,
+          "position": [ 450, 270 ]
+        }
+      ],
+      "startTime": 2.0,
+      "loopTime": 4.2
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/crazyring.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 5.5,
+          "zoom": 20,
+          "alpha": 0,
+          "position": [ 450, 270 ]
+        }
+      ],
+      "startTime": 2.6,
+      "loopTime": 4.2
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/crazyring.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 5.5,
+          "zoom": 20,
+          "alpha": 0,
+          "position": [ 450, 270 ]
+        }
+      ],
+      "startTime": 3.2,
+      "loopTime": 4.2
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/crazyring.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 5.5,
+          "zoom": 20,
+          "alpha": 0,
+          "position": [ 450, 270 ]
+        }
+      ],
+      "startTime": 3.8,
+      "loopTime": 4.2
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/starfield1.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 0.5,
+          "zoom": 2.5,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 1.0,
+          "zoom": 5,
+          "alpha": 0,
+          "position": [ 480, 270 ]
+        }
+      ],
+      "startTime": 0.1,
+      "loopTime": 1.5
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/starfield2.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 0.5,
+          "zoom": 2.5,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 1.0,
+          "zoom": 5,
+          "alpha": 0,
+          "position": [ 480, 270 ]
+        }
+      ],
+      "startTime": 0.6,
+      "loopTime": 1.5
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/starfield3.png" }
+      ],
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 0,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 0.5,
+          "zoom": 2.5,
+          "alpha": 0.5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 1.0,
+          "zoom": 5,
+          "alpha": 0,
+          "position": [ 480, 270 ]
+        }
+      ],
+      "startTime": 1.1,
+      "loopTime": 1.5
+    },
+    {
+      "drawables": [
+        { "image": "/cinematics/pat_crazyring/default.png:<frame>" },
+        { "image": "/cinematics/pat_crazyring/sustained/<species>.png:<frame>" }
+      ],
+      "animationFrames": 5,
+      "keyframes": [
+        {
+          "timecode": 0.0,
+          "zoom": 4,
+          "alpha": 0,
+          "frame": 1,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 0.2,
+          "zoom": 1,
+          "alpha": 1,
+          "frame": 2,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 0.5,
+          "zoom": 1,
+          "alpha": 1,
+          "frame": 5,
+          "position": [ 480, 270 ]
+        },
+        {
+          "timecode": 10000,
+          "alpha": 1,
+          "zoom": 1,
+          "frame": 100000,
+          "position": [ 480, 270 ]
+        }
+      ]
+    }
+  ],
+  "audio": [
+    {
+      "timecode": 0,
+      "resource": "/sfx/cinematics/teleporting_loop.ogg",
+      "loops": -1
+    },
+    {
+      "timecode": 0,
+      "resource": "/sfx/cinematics/teleporting_start.ogg"
+    },
+    {
+      "timecode": 0,
+      "resource": "/sfx/statuseffects/powerup.ogg"
+    }
+  ]
+}
