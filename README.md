@@ -7,8 +7,10 @@ supports 78 modded races
 & with OpenStarbound it runs a postload script that automatically generates support for all modded races
 
 
-birth :
-April 2nd, 2015 - "Spirited Giraffe (nightly)" [download_depot 211820 211821 69119513202873366]
+birth :<br />
+April 2nd, 2015 - "Spirited Giraffe (nightly)"<br />
+`download_depot 211820 211821 69119513202873366`
 
-death :
-November 24th, 2015 - "Glad Giraffe (nightly unstable)" [download_depot 367540 367541 5211121139625699892]
+death :<br />
+November 24th, 2015 - "Glad Giraffe (nightly unstable)"<br />
+`download_depot 367540 367541 5211121139625699892`
