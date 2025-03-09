@@ -6,6 +6,7 @@ supports 78 modded races
 <br />
 & with OpenStarbound it runs a postload script that automatically generates support for all modded races
 
+workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3270016569
 
 birth :<br />
 April 2nd, 2015 - "Spirited Giraffe" (nightly)<br />
